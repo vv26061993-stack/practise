@@ -18,7 +18,7 @@ python main.py sample_doc.txt
 Example output:
 
 ```python
-{'word_count': 22, 'sentence_count': 3, 'top_keywords': ['hello', 'document', 'this']}
+{'word_count': 46, 'sentence_count': 6, 'top_keywords': ['and', 'document', 'parser', 'to', 'words']}
 ```
 
 ## Git practice workflow
