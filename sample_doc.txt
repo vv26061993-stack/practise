@@ -5,3 +5,7 @@ These simple results make it easier to understand the contents of a document.
 You can replace this sample text with your own writing to explore how the parser works.
 A clear example helps new developers learn how a program turns plain text into useful information.
 Try changing a few sentences, then run the program again to compare the results.
+Word counts can help describe the size of a document at a glance.
+Sentence counts show how the ideas are divided.
+Keyword lists highlight terms that appear often, making it easier to spot the main topics.
+This project is intentionally small, so you can read the code and understand each step.
