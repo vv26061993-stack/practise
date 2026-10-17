@@ -1,0 +1,2 @@
+Hello world. Hello again! This is a sample doc.
+This document explains how to parse text and count words.
